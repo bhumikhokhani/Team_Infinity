@@ -5,8 +5,8 @@ Here, we the team "Infinity" bring you an application named "Pick Me".
 The user can register through this app,pay money and get umbrellas for rent when in need.
 
 Contributors: 
-Bhumi Khokhani
-Shishir Alva S
-Thanweera Nourin A V
-Renil M.S
-Tanisha Singhal
+1) Bhumi Khokhani
+2) Shishir Alva S
+3) Thanweera Nourin A V
+4) Renil M.S
+5) Tanisha Singhal
